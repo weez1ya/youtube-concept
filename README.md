@@ -2,7 +2,7 @@
 Проект выполнил: Арип Мусаев
 
 ## Используемые технологии:
--HTML
--CSS
--Normalise.css
--SVG Sprites
+- HTML
+- CSS
+- Normalise.css
+- SVG Sprites
